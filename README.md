@@ -7,4 +7,4 @@ B.Sc in CSE, Leading University Sylhet.
 
 
 ### Project
-NutriChalender App
+NutriCalendar App
